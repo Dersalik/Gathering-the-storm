@@ -6,7 +6,7 @@ int main()
  const double Pi= 3.14159 ;
 
  double radius;
- cout << "radius bnusa xhushk hiz"<< endl;
+ cout << "Enter the radius "<< endl;
  cin >> radius;
 
  double area= radius*radius*Pi;
